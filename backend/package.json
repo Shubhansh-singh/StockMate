@@ -1,0 +1,21 @@
+
+{
+  "name": "stockmate-backend",
+  "version": "1.0.0",
+  "description": "StockMate backend API for college project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "stockmate",
+    "inventory",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
